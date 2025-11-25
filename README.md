@@ -1,5 +1,4 @@
 # Projectile Motion Calculator
-**Version 1.0 — Initial Release**
 
 This project is a simple physics-based program that calculates the key parameters of projectile motion using classical mechanics formulas. It was built to strengthen my understanding of Python and basic physics.
 
