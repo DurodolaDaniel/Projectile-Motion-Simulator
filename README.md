@@ -1,52 +1,36 @@
-# Projectile Motion Calculator
+# Projectile Motion Simulator
 
-This project is a simple physics-based program that calculates the key parameters of projectile motion using classical mechanics formulas. It was built to strengthen my understanding of Python and basic physics.
+A computational physics project that models and visualizes the motion of a projectile under uniform gravitational acceleration.
+
+The simulator takes the initial velocity, launch angle, and gravitational acceleration as inputs and calculates the projectile's trajectory, time of flight, maximum height, range, position, and speed throughout its motion.
 
 ## Features
-- Calculates:
-  - Time of flight
-  - Maximum height
-  - Horizontal range
-  - Horizontal and vertical positions at a given time
-- A trajectory table showing (x, y) motion values over time
-- Clean, beginner-friendly Python code
 
-## How It Works
-The program uses standard projectile motion equations:
-- Converts launch angle from degrees to radians
-- Uses ( g = 9.8 m/s^2) as gravitational acceleration
+* Interactive projectile simulation
+* Animated trajectory visualization
+* Time of flight, maximum height, and range calculations
+* Position and speed analysis
+* Configurable gravitational acceleration
 
-## How to Run
-1. Make sure Python 3 is installed on your system.
-2. Download the file `projectile_motion_calculator.py`.
-3. Open your terminal or command prompt and run:
-4. Enter:
-- Initial velocity (m/s)
-- Launch angle (degrees)
+## Outputs
 
-## Screenshots
+### Projectile Trajectory Simulation
 
-## Output
--[Projectile motion output](https://github.com/danieldurodola02-web/projectile-motion-calculator/blob/main/74c4cd5c-f65c-42a2-94ac-c266c0ca75f0.jpeg)
+Visualizes the projectile's complete path and displays its position, height, speed, and time during the simulation.
 
-## Code snippet 
--[Projectile motion code](https://github.com/danieldurodola02-web/projectile-motion-calculator/blob/main/74d5cf1c-1273-47c7-9db1-04c6f5405816.jpeg)
+### Trajectory Analysis
 
-## Example Output
-You will see:
-- Time of flight
-- Maximum height
-- Range
-- Position at a chosen time
-- A full trajectory table
+Plots the horizontal and vertical positions of the projectile as functions of time.
 
-## Why I Built This
-I created this project as a practice exercise to improve at:
-- Writing clean Python code
-- Applying physics formulas to real problems
-- Building small but useful scientific programs
-- I’m still improving my data-visualization skills, so for now I used a simple trajectory table instead of Matplotlib or Plotly charts. I’ll update this project later with a plotted trajectory once I learn more.
+## Technologies
 
+Python • NumPy • Matplotlib
+
+## Physics
+
+The simulation uses the standard equations of ideal projectile motion under constant gravitational acceleration, neglecting air resistance.
 
 ## Author
 **Durodola Daniel**
+<img width="1280" height="664" alt="trajectory_analysis" src="https://github.com/user-attachments/assets/06c8da52-2cf6-49a0-b621-dc1a2f0a656b" />
+<img width="1000" height="600" alt="projectile_trajectory" src="https://github.com/user-attachments/assets/ff8de7c0-698b-4ec5-acd3-cfe793693dd4" />
