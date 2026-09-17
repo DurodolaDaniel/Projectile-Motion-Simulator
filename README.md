@@ -25,4 +25,6 @@ The simulation uses the standard equations of ideal projectile motion under cons
 
 
 <img width="1280" height="664" alt="trajectory_analysis" src="https://github.com/user-attachments/assets/06c8da52-2cf6-49a0-b621-dc1a2f0a656b" />
+
+
 <img width="1000" height="600" alt="projectile_trajectory" src="https://github.com/user-attachments/assets/ff8de7c0-698b-4ec5-acd3-cfe793693dd4" />
